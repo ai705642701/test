@@ -9,7 +9,7 @@ public class CodeBlock02 {
         System.out.println("第一代码块");
     }
 
-    
+
 
     public static void main(String[] args) {
         new CodeBlock02();
